@@ -1,5 +1,4 @@
 Nuova,
 Verificare,
 Chiusa,
-Annullata,
-XXXXX
+Annullata
