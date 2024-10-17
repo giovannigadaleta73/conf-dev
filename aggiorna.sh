@@ -7,7 +7,7 @@ cd /home/giovanni/Documenti/__CREAZIONI/Segnalazioni/Configurazioni_clienti/c-de
 git add .
 
 # Crea un commit con un messaggio descrittivo
-git commit -m "Aggiornamento dei file di configurazione per Cliente1"
+git commit -m "Aggiornamento dei file di configurazione per Cliente"
 
 # Esegui il push delle modifiche verso la repository remota
 git push origin main
